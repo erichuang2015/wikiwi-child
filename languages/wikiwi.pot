@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
 "Project-Id-Version: Wikiwi Child\n"
-"POT-Creation-Date: 2018-08-11 13:15+0430\n"
+"POT-Creation-Date: 2018-08-13 21:51+0430\n"
 "PO-Revision-Date: 2018-07-26 18:26+0430\n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -34,9 +34,9 @@ msgid ""
 msgstr ""
 
 #. Author of the plugin/theme
-msgid "Majix"
+msgid "Xiigma"
 msgstr ""
 
 #. Author URI of the plugin/theme
-msgid "https://github.com/majiix"
+msgid "https://themeforest.net/user/xiigma"
 msgstr ""
